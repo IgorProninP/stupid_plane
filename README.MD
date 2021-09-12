@@ -1,4 +1,4 @@
-# Игрушка-залипалка.
+# Игрушка-залипалка. Не закончена.
 
 `pythonru_com_shmup.py` - леталка, списанная отсюда: 
 [pythonru.com](https://pythonru.com/tag/pishem-igru-na-pygame)
